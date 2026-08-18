@@ -4,5 +4,6 @@ Site institucional e portal hub de repositórios da organização **superset-by-
 
 ## Subprojetos catalogados no portal:
 - **Temas**: `superset-theme-dsgovbr`
+- **Ferramentas & Documentação**: `superset-docs-theme`
 
 Acesse o portal em: [https://superset-by-kelsoncm.github.io](https://superset-by-kelsoncm.github.io)
